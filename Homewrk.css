@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+div {
+    display: inline-block;
+    width: 40%;
+    /* margin-bottom: 10px; */
+}
+
+.teal{
+    background-color: turquoise;
+     
+     
+    
+}
+.teal img{
+    float: left;
+    width: 200px;
+
+}
+
+.darksalmon{
+    background-color: darksalmon;
+    float: right;
+    
+     
+}
+
+.darksalmon img{
+    float: left;
+    width: 200px;
+}
+
+.purple{
+    background: purple;
+    color: white;
+    text-align: center;
+    clear: both;
+}

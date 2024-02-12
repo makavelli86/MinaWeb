@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.about{
+    float: right;
+    width: 200px;
+    height: 200px;
+} 
